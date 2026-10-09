@@ -8,6 +8,15 @@
       "description": "Change the metadata preview card in the Share Cogmit modal to use the following exact three-row structure.",
       "publishedAt": "2026-10-09T18:25:55.449Z",
       "path": "cogmits/yvnow_2026oct090558.md"
+    },
+    {
+      "ownerId": "yvnow",
+      "cogmitId": "yvnow_2026oct091841",
+      "rootCogId": "yvnow_20261009184152",
+      "title": "Temporarily Disable the Open Graph Preview Image Temporarily Disable the Open",
+      "description": "Inspect `src/app/cogmits/[authorId]/[cogmitId]/page.tsx` and the complete metadata generation path.",
+      "publishedAt": "2026-10-09T18:42:00.457Z",
+      "path": "cogmits/yvnow_2026oct091841.md"
     }
   ]
 }
