@@ -1,3 +1,13 @@
 {
-  "cogmits": []
+  "cogmits": [
+    {
+      "ownerId": "yvnow",
+      "cogmitId": "yvnow_2026oct090558",
+      "rootCogId": "yvnow_20261009055238",
+      "title": "asdfasdfsd",
+      "description": "sdfsdfaasdfasdf",
+      "publishedAt": "2026-10-09T05:58:47.895Z",
+      "path": "cogmits/yvnow_2026oct090558.md"
+    }
+  ]
 }
