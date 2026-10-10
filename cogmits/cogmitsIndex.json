@@ -26,6 +26,15 @@
       "description": "A paragraph with **bold**, *italic*, ~~strikethrough~~, and a line",
       "publishedAt": "2026-10-10T05:29:26.148Z",
       "path": "cogmits/yvnow_2026oct100529.md"
+    },
+    {
+      "ownerId": "yvnow",
+      "cogmitId": "yvnow_2026oct101415",
+      "rootCogId": "yvnow_20261010141527",
+      "title": "Cogmit Markdown Parsers testing different views of Cogmit content TASK: Fix C",
+      "description": "Fix Markdown rendering in Cogmit so that RootCog content renders with correct semantic structure and readable styling, comparable in structure to GitHub's Markd",
+      "publishedAt": "2026-10-10T14:15:35.164Z",
+      "path": "cogmits/yvnow_2026oct101415.md"
     }
   ]
 }
