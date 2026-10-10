@@ -17,6 +17,15 @@
       "description": "Inspect `src/app/cogmits/[authorId]/[cogmitId]/page.tsx` and the complete metadata generation path. Inspect `src/app/cogmits/[authorId]/[cogmitId]/page.tsx` and",
       "publishedAt": "2026-10-09T19:02:09.843Z",
       "path": "cogmits/yvnow_2026oct091841.md"
+    },
+    {
+      "ownerId": "yvnow",
+      "cogmitId": "yvnow_2026oct100529",
+      "rootCogId": "yvnow_20261010052918",
+      "title": "Markdown Renderer Test  A paragraph with **bold**, *italic*, ~~strikethrough~",
+      "description": "A paragraph with **bold**, *italic*, ~~strikethrough~~, and a line",
+      "publishedAt": "2026-10-10T05:29:26.148Z",
+      "path": "cogmits/yvnow_2026oct100529.md"
     }
   ]
 }
