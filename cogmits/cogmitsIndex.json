@@ -40,9 +40,9 @@
       "ownerId": "yvnow",
       "cogmitId": "yvnow_2026nov011526",
       "rootCogId": "yvnow_20261101152655",
-      "title": "Do not add cache-busting parameters to the canonical URL or make unrelated changes. Verify the actual HTML response before concluding the image met",
-      "description": "Task: Fix Generate Cogmit Card Button — Generation-to-Preview Transition The Share Cogmit modal now opens correctly and its layout issues have been fixed. However, a new issue occurs after clicking Generate Cogmit Card. Investigate and fix only the generation action and its transition to the generated card preview. Investigate Generate Button Behaviour Inspect the Generate Cogmit Card button handler in ShareCogmitModal.tsx and the associated card-generation functions. Verify: The button click handler executes. The selected generation options are correctly passed to the renderer. The card…",
-      "publishedAt": "2026-11-01T15:27:03.161Z",
+      "title": "7Do not add cache-busting parameters to the canonical URL or make unrelated changes. Verify the actual HTML response before concluding the image me",
+      "description": "1 Do not add cache-busting parameters to the canonical URL or make unrelated changes. Verify the actual HTML response before concluding the image met 2 Do not add cache-busting parameters to the canonical URL or make unrelated changes. Verify the actual HTML response before concluding the image met 3 Do not add cache-busting parameters to the canonical URL or make unrelated changes. Verify the actual HTML response before concluding the image met 4 Do not add cache-busting parameters to the canonical URL or make unrelated changes. Verify the actual HTML response before concluding the image…",
+      "publishedAt": "2026-11-01T15:29:40.136Z",
       "path": "cogmits/yvnow_2026nov011526.md"
     }
   ]
