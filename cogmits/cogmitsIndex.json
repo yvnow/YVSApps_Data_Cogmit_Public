@@ -13,9 +13,9 @@
       "ownerId": "yvnow",
       "cogmitId": "yvnow_2026oct091841",
       "rootCogId": "yvnow_20261009184152",
-      "title": "9emporarily Disable the Open Graph Preview Image Temporarily Disable the Open",
-      "description": "Inspect `src/app/cogmits/[authorId]/[cogmitId]/page.tsx` and the complete metadata generation path. Inspect `src/app/cogmits/[authorId]/[cogmitId]/page.tsx` and",
-      "publishedAt": "2026-10-09T19:02:09.843Z",
+      "title": "Do not add cache-busting parameters to the canonical URL or make unrelated changes. Verify the actual HTML response before concluding the image met",
+      "description": "Diagnose and Correct Cogmit WhatsApp Link Preview Metadata99 Inspect src/app/cogmits/[authorId]/[cogmitId]/page.tsx and the complete metadata generation path. Inspect src/app/cogmits/[authorId]/[cogmitId]/page.tsx and the complete metadata generation path. Verify that og:image and twitter:image are absent from the rendered HTML metadata for the public Cogmit page. Check for inherited, default, layout-level, or alternative metadata sources that could still supply an image. Verify that the deployed route is running the latest implementation before changing anything else. Do not assume the…",
+      "publishedAt": "2026-11-01T15:25:49.219Z",
       "path": "cogmits/yvnow_2026oct091841.md"
     },
     {
