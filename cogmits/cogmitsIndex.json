@@ -44,6 +44,15 @@
       "description": "1 Do not add cache-busting parameters to the canonical URL or make unrelated changes. Verify the actual HTML response before concluding the image met 2 Do not add cache-busting parameters to the canonical URL or make unrelated changes. Verify the actual HTML response before concluding the image met 3 Do not add cache-busting parameters to the canonical URL or make unrelated changes. Verify the actual HTML response before concluding the image met 4 Do not add cache-busting parameters to the canonical URL or make unrelated changes. Verify the actual HTML response before concluding the image…",
       "publishedAt": "2026-11-01T15:29:40.136Z",
       "path": "cogmits/yvnow_2026nov011526.md"
+    },
+    {
+      "ownerId": "yvnow",
+      "cogmitId": "yvnow_2026nov020620",
+      "rootCogId": "yvnow_20261102062005",
+      "title": "Yes. We can build an Android application that estimates the physical distance between two smartphones, provided both phones have the app installed. We can also potentially identify which direction7",
+      "description": "Yes. We can build an Android application that estimates the physical distance between two smartphones, provided both phones have the app installed. We can also potentially identify which direction the other phone is located and, on supported devices, estimate its distance with much better accuracy. The interesting part is that there are already wireless technologies inside modern smartphones that can support this. However, there is an important distinction between detecting another phone and accurately measuring the distance to it. Let's break down the technology and how we would build…",
+      "publishedAt": "2026-11-02T06:20:13.539Z",
+      "path": "cogmits/yvnow_2026nov020620.md"
     }
   ]
 }
